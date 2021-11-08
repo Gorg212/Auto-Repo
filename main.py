@@ -3,7 +3,7 @@ from make import make
 import os, time
 
 os.system("clear")
-os.system("figlet AUTO REPO")
+# .system("figlet AUTO REPO")
 
 try:
     open('data.json')
