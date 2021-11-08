@@ -3,13 +3,6 @@ from make import make
 import os, time
 
 os.system("clear")
-print('             _                               ')
-print('  __ _ _   _| |_ ___    _ __ ___ _ __   ___  ')
-print(' / _` | | | | __/ _ \  | '__/ _ \ '_ \ / _ \ ')
-print('| (_| | |_| | || (_) | | | |  __/ |_) | (_) |')
-print(' \__,_|\__,_|\__\___/  |_|  \___| .__/ \___/ ')
-print('                                |_|          ')
-
 try:
     open('data.json')
 except:
